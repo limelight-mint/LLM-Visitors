@@ -55,6 +55,6 @@ private void InitializeHall(ServiceCollection services)
 > Here is how we set it up, making ServiceCollection new additional Scene which holds our services and IHall component, so we can swap scenes and do whatever we want when those two will sit there and provide us a support when we need it.
 > Can be done better by making it just plain C# classes ofc, yet its just an example.
 
-![MonoHall Setup Picture](https://bunbun.cloud/assets/images/git/monoHall1.png)
+![MonoHall Setup Picture](https://eepywitches.cloud/assets/images/git/monoHall1.png)
 
-![MonoHall Setup Picture](https://bunbun.cloud/assets/images/git/monoHall2.png)
+![MonoHall Setup Picture](https://eepywitches.cloud/assets/images/git/monoHall2.png)
